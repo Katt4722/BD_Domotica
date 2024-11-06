@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mYRTgyW0UgjiCkhrHaThnlBog1WF5hxQkSOUmtV9UXvEl4sJI+lIUfHMJH+emhoC7Erz/L1kzL4P+ctCV/aMOg==",
+  "dgSpecHash": "ADv21ETbyu6/Se2g3+TaF1sfmVybkEmDH9gY7AwHxNisDtZi9uA44b+Vh7evUYcSGWzDIt1lWLWqzUcG4PRVtw==",
   "success": true,
-  "projectFilePath": "/mnt/Datos/Karen/Biblioteca/Biblioteca.csproj",
+  "projectFilePath": "/home/et12alumno/Escritorio/BD_Domotica/Biblioteca/Biblioteca.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
