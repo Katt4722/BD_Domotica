@@ -59,8 +59,7 @@ Para desplegar el proyecto, sigue los siguientes pasos:
      ```
    - Abre el proyecto en Visual Studio Code ejecutando:
      ```
-     code .
-     ```
+
 
 
 2. **Configurar la base de datos**:
